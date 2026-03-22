@@ -8,7 +8,7 @@ const loadingSpinner = document.getElementById("loading-spinner");
 const cardDetailModal =document.getElementById("card-detail-modal")
 
 
-// loadingSpinner
+// loading-Spinner
 
 function loadingActive() {
     loadingSpinner.classList.remove("hidden")
